@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Consumerfeedback/static/css/main.e7d4951e.css",
+    "main.js": "/Consumerfeedback/static/js/main.e43b3eeb.js",
+    "index.html": "/Consumerfeedback/index.html",
+    "main.e7d4951e.css.map": "/Consumerfeedback/static/css/main.e7d4951e.css.map",
+    "main.e43b3eeb.js.map": "/Consumerfeedback/static/js/main.e43b3eeb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7d4951e.css",
+    "static/js/main.e43b3eeb.js"
+  ]
+}
